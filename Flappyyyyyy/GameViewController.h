@@ -3,7 +3,7 @@
 //  Flappyyyyyy
 //
 
-//  Copyright (c) 2016年 Peter. All rights reserved.
+//  Copyright (c) https://github.com/JxbSir  All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
